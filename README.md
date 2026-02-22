@@ -64,7 +64,7 @@ This project builds a logistic regression model to predict which international s
 ## Requirements
 
 - R 3.6+
-- tidyverse
+- tidyr
 - caret
 - ggplot2
 
