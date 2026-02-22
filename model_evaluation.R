@@ -3,7 +3,7 @@
 # Supply Chain On-Time Delivery Prediction Model
 # ============================================================================
 
-library(tidyverse)
+library(tidyr)
 library(caret)
 
 # ============================================================================
